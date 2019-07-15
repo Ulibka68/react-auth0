@@ -6,3 +6,5 @@
 
 1. Get loader image from [Sam Herbert svg loaders website](https://samherbert.net/svg-loaders/).
 1.
+
+https://youtu.be/0N60mKMlwiA
